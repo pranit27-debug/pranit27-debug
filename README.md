@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranit27-debug&label=Profile%20views&color=0e75b6&style=flat" alt="pranit27-debug" /> </p>
 
-- 🌱 I’m currently learning **Dsa , Web Dev , Machine Learning **
+- 🌱 I’m currently learning **Dsa , Web Dev , Machine Learning**
 
 - 📫 How to reach me **narayanpranitmnnit3163@gmail.com**
 

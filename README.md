@@ -62,7 +62,7 @@
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=bluegrace0206)
 
  <!-- leetcode -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/pranitnarayan27?theme=light&font=ABeeZee&ext=contest&width=800)
+<!--//![LeetCode Stats](https://leetcard.jacoblin.cool/pranit narayan27?theme=light&font=ABeeZee&ext=contest&width=800)//-->
 
 <hr>
 ---

@@ -42,6 +42,29 @@
   <img src="https://raw.githubusercontent.com/satty0104/satty0104/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
 </div>
 
+<hr>
+
+<h3 align="left">Hacktoberfest:</h3>
+<img src="https://github.com/user-attachments/assets/f6b089cc-0860-407f-b99d-8271ad42aec0" width="100">
+<img src="https://github.com/user-attachments/assets/6da03b20-50cb-4eb5-a5d8-47e8fa3c4203" width="100">
+<img src="https://github.com/user-attachments/assets/fce215bd-bccd-4bf1-b799-cdd1b8732da0" width="100">
+<img src="https://github.com/user-attachments/assets/a74b85d1-bdd2-4c4f-b149-f72bfbd84a4a" width="100">
+
+
+<hr>
+
+<h3 align="left">Coding Profiles:</h3>
+
+<!-- codechef -->
+![Codechef](https://cp-logo.vercel.app/codechef/pran_narayan26) 
+
+ <!-- codeforces -->
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=bluegrace0206)
+
+ <!-- leetcode -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/pranitnarayan27?theme=light&font=ABeeZee&ext=contest&width=800)
+
+<hr>
 ---
 
 <h3 align="left">Languages and Tools:</h3>

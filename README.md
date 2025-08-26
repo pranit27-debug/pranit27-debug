@@ -56,10 +56,10 @@
 <h3 align="left">Coding Profiles:</h3>
 
 <!-- codechef -->
-![Codechef](https://cp-logo.vercel.app/codechef/pran_narayan26) 
+![Codechef](https://www.codechef.com/users/pran_narayan26) 
 
  <!-- codeforces -->
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=bluegrace0206)
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=)
 
  <!-- leetcode -->
 <!--//![LeetCode Stats](https://leetcard.jacoblin.cool/pranit narayan27?theme=light&font=ABeeZee&ext=contest&width=800)//-->

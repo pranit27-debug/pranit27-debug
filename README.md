@@ -55,8 +55,7 @@
 
 <h3 align="left">Coding Profiles:</h3>
 
-<!-- codechef -->
-![Codechef](https://www.codechef.com/users/pran_narayan26) 
+
 
  <!-- codeforces -->
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=)

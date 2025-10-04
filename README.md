@@ -61,7 +61,7 @@
 
 #### ⚔️ Codeforces
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=pranit27&theme=tokyonight&force_username=true" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Muscleblaze9694&theme=tokyonight&force_username=true" />
 </p>
 
 ---

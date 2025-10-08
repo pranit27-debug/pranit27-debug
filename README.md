@@ -22,7 +22,7 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://leetcode.com/u/pranitnarayan27/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/pranit27" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/Muscleblaze9694" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
   <a href="https://linkedin.com/in/pranit-narayan-202a5036b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:narayanpranitmnnit3163@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>

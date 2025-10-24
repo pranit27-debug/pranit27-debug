@@ -1,7 +1,7 @@
 [![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">👋 Hey, I'm <span style="color:#F7D745">Pranit Narayan</span></h1>
-<h3 align="center">Full-Stack & Backend Developer | ;Agentic AI Explorer | Problem Solver</h3>
+<h3 align="center">Full-Stack & Backend Developer | Agentic AI Explorer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7D745&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Backend+Engineer+(Spring+Boot+%7C+Node);Agentic+AI+Explorer;Freelancer+%26+Problem+Solver;800%2B+DSA+Problems+Solved" alt="Typing SVG" />

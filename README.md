@@ -76,27 +76,6 @@
 
 ---
 
-### 🧠 Open Source Contributions & Public Projects
-
-<p align="center">
-  <a href="https://github.com/pranit27-debug/PayTrack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranit27-debug&repo=PayTrack&theme=tokyonight&border_radius=10" />
-  </a>
-  <a href="https://github.com/pranit27-debug/TransactFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranit27-debug&repo=TransactFlow&theme=tokyonight&border_radius=10" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pranit27-debug/Authify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranit27-debug&repo=Authify&theme=tokyonight&border_radius=10" />
-  </a>
-  <a href="https://github.com/pranit27-debug/CDN-Simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranit27-debug&repo=CDN-Simulator&theme=tokyonight&border_radius=10" />
-  </a>
-</p>
-
----
 
 ### 💎 Key Impact
 - Delivered **6+ full-stack freelance apps** with end-to-end deployment (AWS + Docker + CI/CD).  
